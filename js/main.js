@@ -13,9 +13,8 @@
     const cfg = {
 
         // Countdown Timer Final Date
-        finalDate : 'June 20, 2024 00:00:00',
-        // MailChimp URL
-        mailChimpURL : 'https://mailchi.mp/3f920e80c957/untitled-page'
+        finalDate : 'April 1, 2025 00:00:00',
+        
 
     };
 
